@@ -47,6 +47,13 @@ h1 {
 	overflow:auto;
 }
 
+.description {
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: center;
+	font-size: 1.2em;
+}
+
 .blue {
 	color: #00aed1;
 }
